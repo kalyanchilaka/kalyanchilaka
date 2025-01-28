@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHILAKA SAIKALYAN</h1>
 <h3 align="center">Python Developer</h3>
-<img align="right" width=400 alt="Python Developer" src="">
+<img align="right" width=400 alt="" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyanchilaka&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanchilaka" /> </p>
 
